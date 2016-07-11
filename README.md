@@ -1,2 +1,3 @@
 # Hello-World1
-About my first github project
+This C project built myseft only.
+Every copy behaviours is forbidden.
